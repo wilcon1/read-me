@@ -4,10 +4,10 @@
 Skills: 
 * python 
 * discord bots developer
- ##such as:
-*tickets
-*giveaways
-*moderations
+ ####such as:
+* tickets
+* giveaways
+* moderations
 *API bots
 - 🔭 I’m currently working on this page. 
 
