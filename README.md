@@ -3,7 +3,9 @@
 [I am GitHub Readme Generator's creator]
 
 
-Skills: python / discord bots developer
+Skills: 
+* python 
+* discord bots developer
 
 - 🔭 I’m currently working on this page. 
 
