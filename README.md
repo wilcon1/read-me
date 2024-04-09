@@ -4,7 +4,7 @@
 Skills: 
 * python 
 * discord bots developer
-####such as:
+### such as:
 * tickets
 * giveaways
 * moderations
